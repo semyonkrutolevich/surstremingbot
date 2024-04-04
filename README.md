@@ -3,7 +3,7 @@
 
 It's a simple telegram bot that fetches prices from API and send it to you as a telegram message.
 
-**Hours spent: 0.8h** (0.6h was spent to write READE)
+**Hours spent: 0.8h** (0.6h was spent to write README)
 
 
 ## Environment Variables
